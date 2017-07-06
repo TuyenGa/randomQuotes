@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+h1{
+    font-family: Time New Roman;
+    color:white;
+}
+p {
+    font-size: 20px;
+    font-family: Time New Roman;
+    color: wheat;
+    font-style: italic;
+}
+.quotes {
+    background: black;
+    width: 44%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    font-size: 35px;
+    padding: 20px;
+    height: auto;
+    color: antiquewhite;
+}
+span.author {
+    font-size: 30px;
+    font-family: Time New Roman;
+    font-style: italic;
+    color: white;
+}
